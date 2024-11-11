@@ -1,4 +1,4 @@
-[![MasterHead](https://pazarlikyap.net/wp-content/uploads/2023/11/yazilim-bolumu-okumak.jpg)
+[![MasterHead](https://bilgisayarbilim.com/wp-content/uploads/2019/05/Ders-Ak%C4%B1%C5%9F%C4%B1-ve-Materyaller.gif)
 <h1 align="center">Hi 👋, I'm Esma Nur</h1>
 <h3 align="center">A passionate Full Stack Developer and Computer Engineer from Turkey</h3>
 
