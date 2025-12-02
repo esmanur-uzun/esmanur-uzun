@@ -1,6 +1,6 @@
 [![MasterHead](https://bilgisayarbilim.com/wp-content/uploads/2019/05/Ders-Ak%C4%B1%C5%9F%C4%B1-ve-Materyaller.gif)
 <h1 align="center">Hi 👋, I'm Esma Nur</h1>
-<h3 align="center">A passionate Full Stack Developer and Computer Engineer from Turkey</h3>
+<h3 align="center">A passionate Backend Developer and Computer Engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmanur-uzun&label=Profile%20views&color=0e75b6&style=flat" alt="esmanur-uzun" /> </p>
 
